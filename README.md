@@ -22,6 +22,6 @@
 Before I was optimizing data pipelines, I was optimizing my empire as a pro Age of Empires player! 🏰⚔️🎮
 
 ## 📫 Get in Touch
-- LinkedIn: [[Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/abhishek-verma-83b861135)])
+- LinkedIn: [Abhishek Verma](https://www.linkedin.com/in/abhishek-verma-83b861135/)
 
 Thanks for stopping by! Feel free to check out my repos and connect with me.
