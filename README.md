@@ -9,9 +9,6 @@ I'm a **Senior Data Engineer** experienced in building scalable data pipelines a
 - Built a stock market insights dashboard showcasing trends in **market capitalization** growth and more.
   
 
-## 😂 Fun Fact About Me
-Before I was optimizing data pipelines, I was optimizing my empire as a pro Age of Empires player! 🏰⚔️🎮
-
 ## 📫 Get in Touch
 - LinkedIn: [Abhishek Verma](https://www.linkedin.com/in/abhishek-verma-83b861135/)
 
