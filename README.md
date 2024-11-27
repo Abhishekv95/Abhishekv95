@@ -5,9 +5,6 @@ I'm a **Senior Data Engineer** experienced in building scalable data pipelines a
 
 ## 🎯 Career Highlights
 - Led the migration of 10TB of media data to **Snowflake** for a major sports streaming platform.
-- Architected data pipelines that handle **financial data** with strict regulatory compliance.
-- Built a stock market insights dashboard showcasing trends in **market capitalization** growth and more.
-  
 
 ## 📫 Get in Touch
 - LinkedIn: [Abhishek Verma](https://www.linkedin.com/in/abhishek-verma-83b861135/)
